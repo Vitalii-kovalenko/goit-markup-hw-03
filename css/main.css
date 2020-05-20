@@ -216,6 +216,7 @@ li{
    background: var(--primary-bg-adv-color);
    border-radius: 0px 0px 4px 4px;
    padding: 27px 87px;
+   padding-right: 0;
    margin-top: 0;
    margin-bottom: 0;
 }
